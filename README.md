@@ -1,4 +1,4 @@
-![Awesome Portfolio Website](./readme_assets/banner_apw.png)
+![Awesome Portfolio Website](./readme_assets/.png)
 
 <h1> THANKS FOR </h1>
 
