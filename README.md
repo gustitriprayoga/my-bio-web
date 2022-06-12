@@ -1,3 +1,10 @@
+<marquee behavior="" direction=""><h1 align="center">Hello 👋, I'm Gusti Tri Prayoga</h1></marquee>
+<h3 align="center"> 
+  <img src="https://i.ibb.co/G2k97js/unknown.png" style=" width:250px ; height:250 ">
+  <img src="https://i.ibb.co/G2k97js/unknown.png" style=" width:250px ; height:250 ">          </h3> 
+
+
+
 ![Awesome Portfolio Website](./readme_assets/.png)
 
 <h1> THANKS FOR </h1>
