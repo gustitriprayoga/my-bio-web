@@ -1,11 +1,6 @@
 ![Awesome Portfolio Website](./readme_assets/banner_apw.png)
 
-## Project Maintainers👨🏫:
-
-| <img src = "https://avatars2.githubusercontent.com/u/46641503?v=4"> | <img src = "https://avatars2.githubusercontent.com/u/40017559?v=4"> | 
-| :----------------------------------------------------------: | :----------------------------------------------------------: | 
-|     [Smaranjit Ghose](https://github.com/smaranjitghose) |    [Anush Bhatia](https://github.com/anushbhatia)                       
-
+<h1> THANKS FOR </h1>
 
 ## Our valuable Contributors👩‍💻👨‍💻 :
 
